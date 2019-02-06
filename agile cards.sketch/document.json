@@ -1,0 +1,68 @@
+{
+"layerStyles" : {
+"objects" : [
+
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"gradients" : [
+
+],
+"colors" : [
+
+],
+"_class" : "assetCollection",
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"images" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/259BF05E-C767-4FA1-AD04-3F35D965D50C"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/617CE16B-599C-49EE-8C5F-DC4CE962F582"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 0,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "EDBFE792-1733-47C5-89E5-44EA78EF4D18",
+"foreignTextStyles" : [
+
+],
+"userInfo" : {
+"com.plant.plantplugin" : {
+"plant_doc_id" : "3643F972-C386-40E5-9197-56FFE441A63F"
+}
+}
+}

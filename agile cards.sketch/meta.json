@@ -1,0 +1,59 @@
+{
+"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"build" : 67491,
+"version" : 112,
+"fonts" : [
+"SFProText-Regular",
+"SFProText-Semibold",
+"Roboto-Medium",
+"OpenSans",
+"WorkSans-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 1,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"appVersion" : "52.6",
+"build" : 67491,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 112,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.67491"
+],
+"appVersion" : "52.6",
+"pagesAndArtboards" : {
+"259BF05E-C767-4FA1-AD04-3F35D965D50C" : {
+"name" : "Page 1",
+"artboards" : {
+"8F8510EC-79C6-439E-8354-44D3141DC73B" : {
+"name" : "iPhone 8 Copy"
+}
+}
+},
+"617CE16B-599C-49EE-8C5F-DC4CE962F582" : {
+"name" : "Symbols",
+"artboards" : {
+"56846D63-515F-4AC8-B38A-1D6685F8DF64" : {
+"name" : "Bars\/Navigation Bar\/Light\/_\/Center\/Title"
+},
+"0123110B-A6B3-4971-83BC-CDBD21817517" : {
+"name" : "Material\/Android\/Status bar content dark"
+},
+"CFC8EFFA-4BF3-4E87-ABEB-E62D1082013A" : {
+"name" : "Bars\/Navigation Bar\/Light\/_\/Left\/Back Button"
+},
+"5CEA9A60-81F1-44ED-BEE3-D1C565CA5E36" : {
+"name" : "Material\/Android\/Status bar 360dp light gray"
+},
+"52484FCD-6D03-4EEE-896A-015512A49141" : {
+"name" : "Bars\/Navigation Bar\/Light\/_\/Left\/Back Button"
+}
+}
+}
+}
+}
