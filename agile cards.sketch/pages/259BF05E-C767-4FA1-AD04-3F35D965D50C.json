@@ -1339,11 +1339,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.9520089285714286,
+"red" : 0,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.9520089285714286,
-"green" : 0.9520089285714286
+"blue" : 0.93333333333333335,
+"green" : 0.93333333333333335
 },
 "patternTileScale" : 1,
 "fillType" : 0,
