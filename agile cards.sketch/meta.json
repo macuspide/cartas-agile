@@ -1,5 +1,31 @@
 {
 "commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"build" : 67491,
+"version" : 112,
+"fonts" : [
+"SFProText-Regular",
+"SFProText-Semibold",
+"Roboto-Medium",
+"OpenSans",
+"WorkSans-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 67491,
+"appVersion" : "52.6",
+"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 112,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.67491"
+],
+"appVersion" : "52.6",
 "pagesAndArtboards" : {
 "259BF05E-C767-4FA1-AD04-3F35D965D50C" : {
 "name" : "Page 1",
@@ -29,31 +55,5 @@
 }
 }
 }
-},
-"version" : 112,
-"fonts" : [
-"SFProText-Regular",
-"SFProText-Semibold",
-"Roboto-Medium",
-"OpenSans",
-"WorkSans-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 67491,
-"appVersion" : "52.6",
-"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 112,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.67491"
-],
-"appVersion" : "52.6",
-"build" : 67491
+}
 }
